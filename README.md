@@ -1,1 +1,1 @@
-# Tas-Kag-t-Makas-Oyunu
+# Tas-Kagit-Makas-Oyunu
