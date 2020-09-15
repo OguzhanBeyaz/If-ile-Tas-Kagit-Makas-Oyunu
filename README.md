@@ -1,1 +1,1 @@
-# Tas-Kagit-Makas-Oyunu
+# İf-İle-Tas-Kagit-Makas-Oyunu
